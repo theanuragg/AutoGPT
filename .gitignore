@@ -4,9 +4,7 @@ classic/original_autogpt/keys.py
 classic/original_autogpt/*.json
 auto_gpt_workspace/*
 *.mpeg
-.env
 azure.yaml
-.vscode
 .idea/*
 auto-gpt.json
 log.txt
@@ -121,7 +119,6 @@ celerybeat.pid
 
 # Environments
 .direnv/
-.env
 .venv
 env/
 venv*/
@@ -176,3 +173,5 @@ autogpt_platform/backend/settings.py
 
 *.ign.*
 .test-contents
+config.bat
+node_modules
